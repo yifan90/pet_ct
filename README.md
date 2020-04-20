@@ -1,3 +1,5 @@
-This is the python version of the PET-CT project.
+This is the python version of the PET singularity recovery project.
 
-We want to show that theoretically, the boundaries of the region of interests in a PET scan can be recovered by PET data only (instead of doing another CT scanning to do data correction).
+In my thesis, I have showed that theoretically, the boundaries of the region of interests in a PET scan can be recovered by PET data only (instead of doing another CT scanning for data correction).
+
+We show some numerical results here.
